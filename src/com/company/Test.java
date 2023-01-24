@@ -17,6 +17,8 @@ public class Test {
         System.out.println("************************************************");
         System.out.println(driver.getCurrentUrl());
 
+        System.out.println("final changes to stash");
+
         //driver.navigate().to("http://www.facebook.com");
        // driver.navigate().forward();
        // driver.navigate().back();
