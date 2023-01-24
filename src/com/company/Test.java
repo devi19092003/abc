@@ -16,8 +16,6 @@ public class Test {
         System.out.println(driver.getPageSource());
         System.out.println("************************************************");
         System.out.println(driver.getCurrentUrl());
-        System.out.println("hiii");
-        System.out.println("hello");
 
         //driver.navigate().to("http://www.facebook.com");
        // driver.navigate().forward();
